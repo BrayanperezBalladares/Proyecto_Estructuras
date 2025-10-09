@@ -18,6 +18,7 @@ Solorzano Diaz Joshua
 Salas Azofeifa Ronny 
 
 Goluboay Alvarado Jorge Esteban 
+
 **Fecha de entrega:** 10 de octubre, 2025
 
 ---
