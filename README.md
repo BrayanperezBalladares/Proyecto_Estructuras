@@ -9,7 +9,15 @@
 ### I Proyecto Programado - II Ciclo 2025
 ### Profesor: Msc. Walter León Chavarría
 
-**Estudiante:** Brayan Pérez Balladares  
+**Estudiantes:** Brayan Pérez Balladares 
+
+Elizondo Gutiérrez Daniel Emilio 
+
+Solorzano Diaz Joshua 
+
+Salas Azofeifa Ronny 
+
+Goluboay Alvarado Jorge Esteban 
 **Fecha de entrega:** 10 de octubre, 2025
 
 ---
